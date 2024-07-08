@@ -1,0 +1,2 @@
+# Retail_Sales_Inventory_Analysis
+Documentation of Retail_Sales_Inventory Project
