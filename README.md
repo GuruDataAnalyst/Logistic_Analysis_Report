@@ -46,9 +46,11 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as:
 
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the peak sales periods?
+- Identify sales trend?
+- Which  are order by city?
+- What are  order by region?
+- What are order by category? 
+- What are order by segement? 
 
 ### Data Analysis
 
@@ -62,20 +64,24 @@ WHERE cond = 2;
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the year 2017.
+2. Order by Category Binders is the best-performing category in terms of sales and revenue .
+3. City of Newyork orders were highest among all other city a .
+4. Consumer segments that has highest value  of order should be targeted for more sales.
+5. Western region has the highest order which should be focus for more sales and we need more advetisement in the least region.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
+- Invest in marketing and promotions in the least categories copiers to maximize revenue.
+- Focus on expanding and promoting products in Category Binders.
 - Implement a customer segmentation strategy to target high-LTV customers effectively.
+- The city of Newyork should be more targeted city for more sales
+  
 
 ### Limitations
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between sales and profit.
 
 ### References
 
