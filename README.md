@@ -20,7 +20,8 @@
 
 This data analysis project aims to provide insights into visualizing key metrics to drive informed decision-making within organizations. By analyzing various aspects of the data, I seek to identify trends, order by city, region, category and segement. make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-[Logistic_Report.pdf](https://github.com/user-attachments/files/16235988/Logistic_Report.pdf)
+![Logistic_Report](https://github.com/user-attachments/assets/c3b54eb3-b48b-4929-beac-34d8a792e153)
+
 
 ### Data Sources
 
