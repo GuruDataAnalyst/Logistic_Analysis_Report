@@ -1,4 +1,4 @@
-# LogisticAnalysis Project
+# Logistic Analysis Project
 
 ## Table of Contents
 
