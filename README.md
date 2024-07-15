@@ -20,8 +20,7 @@
 
 This data analysis project aims to provide insights into visualizing key metrics to drive informed decision-making within organizations. By analyzing various aspects of the data, I seek to identify trends, order by city, region, category and segement. make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
-
+[Logistic_Report.pdf](https://github.com/user-attachments/files/16235988/Logistic_Report.pdf)
 
 ### Data Sources
 
