@@ -47,8 +47,8 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the sales data to answer key questions, such as:
 
 - Identify sales trend?
-- Which  are order by city?
-- What are  order by region?
+- What are order by city?
+- What are order by region?
 - What are order by category? 
 - What are order by segement? 
 
@@ -76,7 +76,7 @@ Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions in the least categories copiers to maximize revenue.
 - Focus on expanding and promoting products in Category Binders.
 - Implement a customer segmentation strategy to target high-LTV customers effectively.
-- The city of Newyork should be more targeted city for more sales
+- The city of Newyork should be more targeted city for more sales.
   
 
 ### Limitations
