@@ -25,7 +25,7 @@ This data analysis project aims to provide insights into visualizing key metrics
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "Data Source.xlsx" file, containing detailed information about each sale made by the company.
+Logistic Data: The primary dataset used for this analysis is the "Data Source.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tools
 
